@@ -1,4 +1,4 @@
-module github.com/HSczy/GRPCLearing
+module github.com/HSczy/GRPCLearning
 
 go 1.16
 
